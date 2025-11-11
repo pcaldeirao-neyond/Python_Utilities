@@ -1,1 +1,3 @@
-# data_orchestrator_template
+# Aceleradores de python
+
+Repositório de exemplo para ilustrar a estrutura de pastas
